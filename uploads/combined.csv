@@ -1,0 +1,601 @@
+Emotion,Q1,Q2,Q3,Q4,Preferred Food
+Fear,It depends,Never,Healthier,Alone,Desi Food
+Happiness,Sometimes,Very likely,"Small, satisfying dish",Never,Fast Food
+Happiness,Rarely,Somewhat likely,"Small, satisfying dish","Yes, sometimes",Fast Food
+Fear,It doesn't affect my eating habits,Always,Healthier,It doesn't matter,Fast Food
+Sadness,Rarely,More,Somewhat likely,Very often,Fast Food
+Anger,Sometimes,Never,It doesn't matter,Rarely,Fast Food
+Anger,Rarely,"Yes, sometimes",Alone,"Yes, often",Fast Food
+Sadness,Never,It depends,Somewhat likely,Very often,Desi Food
+Happiness,Sometimes,Not at all likely,"Small, satisfying dish",Never,Desi Food
+Anger,Sometimes,"Yes, sometimes",I don't eat when I'm angry,Rarely,Fast Food
+Fear,I eat more,Never,Healthier,It doesn't matter,Desi Food
+Anger,Never,"Yes, sometimes",It doesn't matter,Rarely,Desi Food
+Happiness,Rarely,Not at all likely,It depends,Never,Desi Food
+Anger,Never,"Yes, sometimes",Alone,"Yes, often",Fast Food
+Happiness,Sometimes,Not at all likely,Large meal,"Yes, sometimes",Fast Food
+Sadness,Rarely,More,Not very likely,Very often,Desi Food
+Sadness,Sometimes,Less,Not very likely,Never,Desi Food
+Happiness,Rarely,Somewhat likely,"Small, satisfying dish",Rarely,Desi Food
+Fear,It doesn't affect my eating habits,Never,It doesn't affect my food choices,I don't eat when I'm scared or anxious,Fast Food
+Anger,Sometimes,Rarely,With others,"Yes, sometimes",Fast Food
+Anger,Never,"Yes, always",Alone,Never,Fast Food
+Sadness,Sometimes,More,Not at all likely,Never,Desi Food
+Anger,Never,Rarely,With others,Rarely,Fast Food
+Sadness,Always,Less,Somewhat likely,Very often,Fast Food
+Anger,Never,Rarely,It doesn't matter,Never,Desi Food
+Happiness,Rarely,Not very likely,It depends,Never,Fast Food
+Anger,Rarely,Rarely,Alone,"Yes, often",Desi Food
+Sadness,Rarely,It depends,Not very likely,Sometimes,Desi Food
+Happiness,Very often,Somewhat likely,It depends,Rarely,Desi Food
+Anger,Rarely,Never,With others,"Yes, often",Desi Food
+Sadness,Sometimes,More,Very likely,Very often,Desi Food
+Happiness,Never,Very likely,It depends,Never,Fast Food
+Happiness,Never,Not very likely,It depends,"Yes, often",Desi Food
+Happiness,Never,Not at all likely,I don't know,Rarely,Fast Food
+Fear,I eat more,Never,Unhealthier,I don't eat when I'm scared or anxious,Fast Food
+Anger,Always,"Yes, always",Alone,Never,Fast Food
+Fear,I eat less,Rarely,Unhealthier,With others,Desi Food
+Fear,I eat less,Rarely,Healthier,With others,Fast Food
+Sadness,Rarely,The same amount,Very likely,Sometimes,Fast Food
+Anger,Rarely,"Yes, sometimes",I don't eat when I'm angry,"Yes, often",Fast Food
+Anger,Never,Rarely,I don't eat when I'm angry,"Yes, often",Desi Food
+Happiness,Rarely,Not very likely,I don't know,Rarely,Desi Food
+Fear,I eat less,Always,I don't know,I don't eat when I'm scared or anxious,Fast Food
+Fear,I eat more,Never,I don't know,With others,Desi Food
+Happiness,Never,Not at all likely,"Small, satisfying dish",Never,Desi Food
+Sadness,Rarely,Less,Somewhat likely,Rarely,Desi Food
+Fear,I eat less,Never,Unhealthier,I don't eat when I'm scared or anxious,Desi Food
+Sadness,Never,More,Very likely,Never,Fast Food
+Sadness,Rarely,More,Very likely,Never,Desi Food
+Happiness,Sometimes,Very likely,It depends,Rarely,Fast Food
+Anger,Sometimes,"Yes, sometimes",With others,"Yes, sometimes",Desi Food
+Sadness,Rarely,More,Very likely,Sometimes,Fast Food
+Sadness,Rarely,More,Not very likely,Sometimes,Fast Food
+Anger,Rarely,"Yes, sometimes",Alone,"Yes, sometimes",Desi Food
+Anger,Rarely,Rarely,I don't eat when I'm angry,Rarely,Fast Food
+Anger,Always,"Yes, always",I don't eat when I'm angry,Rarely,Desi Food
+Sadness,Always,Less,Very likely,Never,Desi Food
+Sadness,Always,It depends,Not at all likely,Sometimes,Fast Food
+Fear,It doesn't affect my eating habits,Never,I don't know,With others,Fast Food
+Sadness,Never,More,Very likely,Never,Fast Food
+Happiness,Sometimes,Not very likely,I don't know,"Yes, often",Fast Food
+Happiness,Rarely,Not at all likely,Large meal,Never,Desi Food
+Sadness,Always,Less,Very likely,Rarely,Desi Food
+Happiness,Rarely,Somewhat likely,I don't know,Rarely,Fast Food
+Fear,It depends,Always,Healthier,I don't eat when I'm scared or anxious,Desi Food
+Sadness,Always,It depends,Somewhat likely,Never,Desi Food
+Fear,I eat more,Sometimes,Healthier,Alone,Fast Food
+Fear,I eat more,Rarely,Healthier,I don't eat when I'm scared or anxious,Fast Food
+Fear,I eat less,Always,Unhealthier,Alone,Desi Food
+Happiness,Sometimes,Somewhat likely,I don't know,Rarely,Fast Food
+Anger,Rarely,Rarely,With others,"Yes, sometimes",Desi Food
+Happiness,Never,Somewhat likely,Large meal,"Yes, often",Desi Food
+Happiness,Rarely,Not at all likely,I don't know,"Yes, often",Fast Food
+Anger,Sometimes,"Yes, sometimes",It doesn't matter,"Yes, often",Desi Food
+Anger,Always,Rarely,Alone,"Yes, often",Desi Food
+Anger,Always,Never,Alone,Rarely,Fast Food
+Anger,Never,Rarely,I don't eat when I'm angry,Never,Fast Food
+Anger,Sometimes,Never,It doesn't matter,Never,Fast Food
+Anger,Sometimes,Never,Alone,Never,Desi Food
+Happiness,Rarely,Not at all likely,"Small, satisfying dish","Yes, sometimes",Fast Food
+Fear,I eat less,Always,It doesn't affect my food choices,Alone,Fast Food
+Sadness,Always,The same amount,Not at all likely,Never,Desi Food
+Happiness,Rarely,Not at all likely,I don't know,Never,Fast Food
+Anger,Sometimes,Never,Alone,"Yes, sometimes",Desi Food
+Happiness,Rarely,Not at all likely,It depends,Never,Fast Food
+Sadness,Never,Less,Not at all likely,Sometimes,Desi Food
+Anger,Sometimes,Rarely,Alone,"Yes, often",Fast Food
+Sadness,Never,The same amount,Somewhat likely,Very often,Fast Food
+Happiness,Rarely,Not very likely,It depends,Rarely,Fast Food
+Fear,It doesn't affect my eating habits,Sometimes,Healthier,Alone,Desi Food
+Sadness,Rarely,More,Not very likely,Rarely,Desi Food
+Sadness,Rarely,More,Very likely,Very often,Fast Food
+Happiness,Rarely,Very likely,"Small, satisfying dish",Rarely,Desi Food
+Fear,I eat more,Always,Unhealthier,I don't eat when I'm scared or anxious,Desi Food
+Happiness,Never,Not at all likely,"Small, satisfying dish","Yes, often",Desi Food
+Sadness,Sometimes,It depends,Not very likely,Very often,Desi Food
+Sadness,Rarely,It depends,Very likely,Sometimes,Fast Food
+Anger,Sometimes,Never,Alone,"Yes, often",Desi Food
+Fear,I eat less,Never,It doesn't affect my food choices,It doesn't matter,Fast Food
+Fear,It depends,Rarely,Healthier,Alone,Desi Food
+Anger,Always,Rarely,It doesn't matter,"Yes, sometimes",Fast Food
+Happiness,Sometimes,Not at all likely,"Small, satisfying dish","Yes, sometimes",Fast Food
+Fear,I eat less,Sometimes,I don't know,Alone,Desi Food
+Sadness,Never,It depends,Not at all likely,Never,Desi Food
+Fear,It doesn't affect my eating habits,Sometimes,Unhealthier,With others,Desi Food
+Sadness,Never,It depends,Somewhat likely,Very often,Desi Food
+Anger,Always,"Yes, always",It doesn't matter,"Yes, often",Fast Food
+Anger,Rarely,"Yes, sometimes",With others,"Yes, sometimes",Fast Food
+Happiness,Very often,Very likely,It depends,"Yes, sometimes",Desi Food
+Anger,Always,"Yes, always",It doesn't matter,Rarely,Fast Food
+Fear,I eat more,Rarely,I don't know,Alone,Desi Food
+Sadness,Never,It depends,Not very likely,Very often,Desi Food
+Sadness,Sometimes,It depends,Somewhat likely,Never,Desi Food
+Anger,Always,Rarely,Alone,Rarely,Fast Food
+Sadness,Sometimes,More,Somewhat likely,Rarely,Fast Food
+Fear,It doesn't affect my eating habits,Never,It doesn't affect my food choices,With others,Fast Food
+Happiness,Never,Somewhat likely,It depends,Never,Desi Food
+Fear,It doesn't affect my eating habits,Rarely,Unhealthier,Alone,Fast Food
+Anger,Always,"Yes, sometimes",With others,"Yes, often",Desi Food
+Fear,It doesn't affect my eating habits,Rarely,Healthier,With others,Fast Food
+Anger,Rarely,"Yes, sometimes",It doesn't matter,"Yes, sometimes",Desi Food
+Fear,It doesn't affect my eating habits,Rarely,I don't know,It doesn't matter,Fast Food
+Anger,Never,Rarely,It doesn't matter,Rarely,Fast Food
+Fear,I eat less,Always,I don't know,It doesn't matter,Desi Food
+Sadness,Always,Less,Not very likely,Very often,Desi Food
+Happiness,Rarely,Not very likely,Large meal,"Yes, sometimes",Desi Food
+Sadness,Never,It depends,Not very likely,Never,Fast Food
+Happiness,Never,Not at all likely,"Small, satisfying dish",Rarely,Desi Food
+Happiness,Never,Somewhat likely,"Small, satisfying dish",Rarely,Desi Food
+Anger,Always,Rarely,With others,Rarely,Fast Food
+Sadness,Rarely,The same amount,Very likely,Never,Fast Food
+Happiness,Never,Not very likely,"Small, satisfying dish",Rarely,Desi Food
+Anger,Never,"Yes, always",Alone,Rarely,Fast Food
+Anger,Rarely,"Yes, always",It doesn't matter,Rarely,Desi Food
+Anger,Sometimes,"Yes, always",I don't eat when I'm angry,"Yes, sometimes",Fast Food
+Happiness,Very often,Not very likely,"Small, satisfying dish","Yes, often",Fast Food
+Sadness,Sometimes,The same amount,Somewhat likely,Very often,Fast Food
+Sadness,Sometimes,It depends,Not at all likely,Rarely,Desi Food
+Fear,It doesn't affect my eating habits,Rarely,I don't know,Alone,Fast Food
+Fear,It doesn't affect my eating habits,Always,It doesn't affect my food choices,Alone,Fast Food
+Sadness,Rarely,The same amount,Not very likely,Never,Desi Food
+Anger,Never,"Yes, always",Alone,"Yes, often",Fast Food
+Anger,Sometimes,Rarely,Alone,"Yes, sometimes",Fast Food
+Sadness,Sometimes,More,Very likely,Rarely,Desi Food
+Happiness,Never,Not very likely,It depends,"Yes, sometimes",Fast Food
+Sadness,Never,More,Not very likely,Very often,Fast Food
+Happiness,Rarely,Somewhat likely,It depends,"Yes, sometimes",Desi Food
+Fear,It doesn't affect my eating habits,Rarely,Healthier,With others,Fast Food
+Anger,Rarely,Never,It doesn't matter,"Yes, sometimes",Desi Food
+Fear,It doesn't affect my eating habits,Never,It doesn't affect my food choices,It doesn't matter,Fast Food
+Fear,It depends,Never,Healthier,Alone,Fast Food
+Sadness,Never,It depends,Not very likely,Sometimes,Fast Food
+Sadness,Always,It depends,Somewhat likely,Sometimes,Fast Food
+Anger,Rarely,Rarely,With others,"Yes, sometimes",Fast Food
+Fear,I eat less,Always,I don't know,With others,Desi Food
+Sadness,Never,It depends,Not very likely,Very often,Fast Food
+Sadness,Sometimes,The same amount,Not at all likely,Rarely,Desi Food
+Happiness,Very often,Very likely,Large meal,"Yes, sometimes",Fast Food
+Fear,I eat less,Rarely,It doesn't affect my food choices,Alone,Desi Food
+Happiness,Rarely,Somewhat likely,Large meal,Rarely,Desi Food
+Sadness,Rarely,Less,Not at all likely,Very often,Desi Food
+Sadness,Never,More,Not very likely,Never,Desi Food
+Sadness,Rarely,It depends,Not at all likely,Never,Desi Food
+Anger,Sometimes,Rarely,It doesn't matter,"Yes, often",Desi Food
+Sadness,Sometimes,More,Somewhat likely,Very often,Fast Food
+Anger,Rarely,"Yes, sometimes",It doesn't matter,"Yes, sometimes",Desi Food
+Sadness,Always,Less,Somewhat likely,Very often,Fast Food
+Anger,Rarely,"Yes, sometimes",Alone,Rarely,Fast Food
+Sadness,Never,It depends,Not very likely,Rarely,Fast Food
+Happiness,Never,Not very likely,"Small, satisfying dish",Never,Desi Food
+Fear,It depends,Never,Unhealthier,It doesn't matter,Desi Food
+Happiness,Very often,Not very likely,It depends,"Yes, often",Fast Food
+Happiness,Never,Not at all likely,It depends,"Yes, sometimes",Desi Food
+Fear,I eat less,Always,I don't know,I don't eat when I'm scared or anxious,Fast Food
+Fear,I eat more,Never,Healthier,It doesn't matter,Desi Food
+Fear,I eat less,Sometimes,It doesn't affect my food choices,I don't eat when I'm scared or anxious,Fast Food
+Fear,It doesn't affect my eating habits,Sometimes,It doesn't affect my food choices,I don't eat when I'm scared or anxious,Desi Food
+Fear,I eat more,Rarely,I don't know,I don't eat when I'm scared or anxious,Fast Food
+Fear,It doesn't affect my eating habits,Never,Healthier,It doesn't matter,Fast Food
+Sadness,Sometimes,More,Not very likely,Rarely,Fast Food
+Fear,It depends,Sometimes,I don't know,I don't eat when I'm scared or anxious,Fast Food
+Sadness,Always,It depends,Somewhat likely,Very often,Fast Food
+Sadness,Rarely,More,Somewhat likely,Sometimes,Fast Food
+Fear,It doesn't affect my eating habits,Always,Unhealthier,I don't eat when I'm scared or anxious,Desi Food
+Happiness,Rarely,Somewhat likely,Large meal,Never,Desi Food
+Fear,I eat more,Rarely,I don't know,Alone,Fast Food
+Sadness,Always,More,Somewhat likely,Very often,Desi Food
+Sadness,Rarely,Less,Somewhat likely,Sometimes,Desi Food
+Fear,It doesn't affect my eating habits,Always,I don't know,Alone,Fast Food
+Happiness,Sometimes,Very likely,It depends,"Yes, sometimes",Fast Food
+Anger,Sometimes,Never,It doesn't matter,Rarely,Desi Food
+Happiness,Very often,Very likely,"Small, satisfying dish",Rarely,Fast Food
+Anger,Never,Rarely,With others,Rarely,Fast Food
+Anger,Rarely,"Yes, sometimes",It doesn't matter,Rarely,Fast Food
+Happiness,Never,Somewhat likely,It depends,Never,Desi Food
+Happiness,Very often,Not very likely,Large meal,"Yes, often",Fast Food
+Sadness,Rarely,The same amount,Not at all likely,Never,Fast Food
+Fear,It depends,Never,I don't know,With others,Desi Food
+Sadness,Rarely,More,Somewhat likely,Rarely,Desi Food
+Sadness,Rarely,More,Not at all likely,Sometimes,Fast Food
+Anger,Never,Never,With others,"Yes, sometimes",Desi Food
+Sadness,Rarely,Less,Not very likely,Very often,Fast Food
+Sadness,Always,Less,Somewhat likely,Sometimes,Fast Food
+Happiness,Very often,Not very likely,I don't know,Rarely,Fast Food
+Happiness,Rarely,Not at all likely,"Small, satisfying dish",Rarely,Desi Food
+Fear,I eat less,Never,I don't know,I don't eat when I'm scared or anxious,Fast Food
+Anger,Sometimes,Rarely,It doesn't matter,"Yes, often",Fast Food
+Sadness,Sometimes,The same amount,Very likely,Very often,Fast Food
+Anger,Sometimes,"Yes, sometimes",With others,Never,Fast Food
+Happiness,Sometimes,Not at all likely,I don't know,"Yes, sometimes",Desi Food
+Fear,It doesn't affect my eating habits,Rarely,Healthier,It doesn't matter,Desi Food
+Anger,Never,Never,It doesn't matter,"Yes, often",Fast Food
+Sadness,Rarely,It depends,Not very likely,Sometimes,Fast Food
+Happiness,Rarely,Not very likely,"Small, satisfying dish","Yes, often",Desi Food
+Happiness,Very often,Somewhat likely,Large meal,"Yes, often",Desi Food
+Anger,Rarely,"Yes, sometimes",It doesn't matter,"Yes, often",Fast Food
+Sadness,Always,It depends,Very likely,Never,Fast Food
+Happiness,Never,Not very likely,It depends,Never,Desi Food
+Anger,Always,Never,With others,Rarely,Fast Food
+Anger,Never,"Yes, sometimes",With others,"Yes, sometimes",Fast Food
+Sadness,Sometimes,Less,Somewhat likely,Sometimes,Desi Food
+Happiness,Very often,Very likely,It depends,Never,Fast Food
+Fear,I eat more,Always,Unhealthier,With others,Fast Food
+Sadness,Never,The same amount,Somewhat likely,Rarely,Fast Food
+Sadness,Always,More,Very likely,Sometimes,Desi Food
+Happiness,Sometimes,Not very likely,Large meal,Rarely,Desi Food
+Fear,I eat less,Sometimes,Healthier,I don't eat when I'm scared or anxious,Desi Food
+Fear,I eat less,Rarely,It doesn't affect my food choices,It doesn't matter,Desi Food
+Fear,It doesn't affect my eating habits,Rarely,Unhealthier,I don't eat when I'm scared or anxious,Fast Food
+Fear,It depends,Sometimes,I don't know,It doesn't matter,Desi Food
+Happiness,Rarely,Not very likely,It depends,"Yes, sometimes",Fast Food
+Happiness,Never,Not at all likely,I don't know,"Yes, often",Fast Food
+Sadness,Never,More,Not at all likely,Very often,Desi Food
+Sadness,Sometimes,It depends,Somewhat likely,Never,Fast Food
+Happiness,Never,Not at all likely,It depends,Never,Fast Food
+Happiness,Very often,Somewhat likely,I don't know,"Yes, sometimes",Desi Food
+Sadness,Always,Less,Very likely,Very often,Desi Food
+Happiness,Rarely,Somewhat likely,It depends,"Yes, often",Desi Food
+Sadness,Never,It depends,Very likely,Very often,Desi Food
+Fear,It depends,Rarely,Unhealthier,I don't eat when I'm scared or anxious,Fast Food
+Sadness,Sometimes,Less,Very likely,Rarely,Desi Food
+Sadness,Never,More,Not at all likely,Very often,Fast Food
+Sadness,Always,The same amount,Very likely,Never,Desi Food
+Fear,It doesn't affect my eating habits,Sometimes,I don't know,With others,Desi Food
+Fear,I eat less,Never,It doesn't affect my food choices,I don't eat when I'm scared or anxious,Fast Food
+Happiness,Sometimes,Not at all likely,It depends,"Yes, sometimes",Desi Food
+Sadness,Always,More,Not at all likely,Very often,Desi Food
+Fear,It doesn't affect my eating habits,Always,It doesn't affect my food choices,It doesn't matter,Fast Food
+Anger,Sometimes,Rarely,I don't eat when I'm angry,Rarely,Fast Food
+Happiness,Rarely,Not very likely,It depends,Rarely,Fast Food
+Anger,Rarely,Rarely,It doesn't matter,Never,Fast Food
+Fear,It depends,Rarely,Unhealthier,With others,Fast Food
+Fear,I eat more,Always,It doesn't affect my food choices,I don't eat when I'm scared or anxious,Desi Food
+Happiness,Never,Somewhat likely,"Small, satisfying dish","Yes, often",Fast Food
+Sadness,Rarely,It depends,Not very likely,Never,Fast Food
+Sadness,Never,It depends,Not very likely,Very often,Fast Food
+Anger,Sometimes,Never,Alone,"Yes, sometimes",Desi Food
+Anger,Rarely,"Yes, sometimes",I don't eat when I'm angry,"Yes, often",Desi Food
+Sadness,Rarely,More,Very likely,Very often,Fast Food
+Happiness,Sometimes,Not at all likely,Large meal,"Yes, sometimes",Desi Food
+Happiness,Sometimes,Somewhat likely,I don't know,"Yes, often",Fast Food
+Happiness,Very often,Not at all likely,Large meal,"Yes, sometimes",Fast Food
+Anger,Rarely,Never,It doesn't matter,Rarely,Fast Food
+Happiness,Never,Not very likely,Large meal,Never,Desi Food
+Sadness,Rarely,It depends,Not at all likely,Never,Desi Food
+Fear,It depends,Sometimes,I don't know,With others,Fast Food
+Anger,Sometimes,Rarely,With others,"Yes, often",Desi Food
+Happiness,Very often,Very likely,I don't know,"Yes, often",Fast Food
+Happiness,Sometimes,Not at all likely,Large meal,Rarely,Desi Food
+Happiness,Rarely,Somewhat likely,It depends,Rarely,Fast Food
+Fear,It doesn't affect my eating habits,Rarely,It doesn't affect my food choices,Alone,Desi Food
+Happiness,Very often,Very likely,It depends,"Yes, sometimes",Fast Food
+Anger,Always,"Yes, always",I don't eat when I'm angry,"Yes, sometimes",Fast Food
+Fear,It doesn't affect my eating habits,Never,It doesn't affect my food choices,With others,Fast Food
+Happiness,Sometimes,Not very likely,Large meal,Never,Desi Food
+Sadness,Always,It depends,Not at all likely,Never,Desi Food
+Fear,It doesn't affect my eating habits,Always,It doesn't affect my food choices,With others,Fast Food
+Fear,It depends,Never,I don't know,I don't eat when I'm scared or anxious,Fast Food
+Fear,It depends,Rarely,I don't know,It doesn't matter,Fast Food
+Happiness,Never,Not very likely,Large meal,"Yes, often",Fast Food
+Fear,I eat less,Always,Healthier,Alone,Fast Food
+Fear,It depends,Never,Healthier,I don't eat when I'm scared or anxious,Fast Food
+Sadness,Rarely,More,Somewhat likely,Never,Desi Food
+Anger,Always,Never,It doesn't matter,Never,Fast Food
+Fear,It depends,Sometimes,Healthier,Alone,Fast Food
+Fear,I eat more,Sometimes,I don't know,With others,Fast Food
+Fear,It depends,Rarely,It doesn't affect my food choices,Alone,Fast Food
+Sadness,Rarely,It depends,Somewhat likely,Sometimes,Fast Food
+Happiness,Sometimes,Not very likely,I don't know,"Yes, sometimes",Desi Food
+Sadness,Never,More,Not at all likely,Sometimes,Desi Food
+Sadness,Rarely,The same amount,Very likely,Sometimes,Desi Food
+Happiness,Rarely,Not at all likely,"Small, satisfying dish","Yes, often",Desi Food
+Happiness,Rarely,Somewhat likely,Large meal,"Yes, sometimes",Desi Food
+Fear,I eat more,Never,Unhealthier,I don't eat when I'm scared or anxious,Desi Food
+Sadness,Rarely,The same amount,Not very likely,Sometimes,Fast Food
+Fear,It doesn't affect my eating habits,Rarely,Unhealthier,I don't eat when I'm scared or anxious,Desi Food
+Anger,Always,Never,I don't eat when I'm angry,Never,Desi Food
+Happiness,Very often,Not at all likely,Large meal,Never,Desi Food
+Sadness,Sometimes,It depends,Not very likely,Rarely,Desi Food
+Anger,Always,"Yes, sometimes",I don't eat when I'm angry,Never,Fast Food
+Happiness,Never,Very likely,Large meal,Rarely,Fast Food
+Sadness,Never,Less,Very likely,Never,Desi Food
+Sadness,Never,More,Somewhat likely,Very often,Desi Food
+Fear,I eat more,Always,Unhealthier,With others,Desi Food
+Happiness,Very often,Very likely,I don't know,"Yes, often",Desi Food
+Happiness,Rarely,Not very likely,Large meal,Rarely,Desi Food
+Fear,I eat less,Never,Unhealthier,I don't eat when I'm scared or anxious,Fast Food
+Fear,I eat more,Never,Healthier,I don't eat when I'm scared or anxious,Desi Food
+Anger,Never,"Yes, sometimes",I don't eat when I'm angry,"Yes, often",Fast Food
+Fear,I eat more,Rarely,It doesn't affect my food choices,With others,Fast Food
+Fear,It doesn't affect my eating habits,Rarely,It doesn't affect my food choices,I don't eat when I'm scared or anxious,Fast Food
+Sadness,Always,More,Not at all likely,Sometimes,Desi Food
+Happiness,Very often,Very likely,I don't know,"Yes, often",Desi Food
+Sadness,Always,The same amount,Not very likely,Rarely,Fast Food
+Happiness,Never,Not very likely,Large meal,Rarely,Fast Food
+Anger,Never,Never,Alone,"Yes, sometimes",Desi Food
+Happiness,Sometimes,Not at all likely,I don't know,Never,Desi Food
+Fear,It depends,Rarely,Unhealthier,I don't eat when I'm scared or anxious,Fast Food
+Anger,Never,Rarely,With others,Rarely,Fast Food
+Happiness,Very often,Not at all likely,I don't know,"Yes, sometimes",Desi Food
+Anger,Sometimes,"Yes, sometimes",Alone,Rarely,Fast Food
+Fear,I eat more,Never,Unhealthier,Alone,Desi Food
+Sadness,Never,More,Very likely,Very often,Fast Food
+Fear,I eat more,Sometimes,Unhealthier,It doesn't matter,Fast Food
+Anger,Always,Never,It doesn't matter,"Yes, sometimes",Desi Food
+Fear,I eat more,Sometimes,I don't know,It doesn't matter,Fast Food
+Sadness,Always,Less,Not at all likely,Sometimes,Desi Food
+Anger,Rarely,Never,It doesn't matter,Rarely,Fast Food
+Happiness,Rarely,Very likely,I don't know,"Yes, often",Desi Food
+Fear,It doesn't affect my eating habits,Never,Unhealthier,I don't eat when I'm scared or anxious,Fast Food
+Happiness,Never,Somewhat likely,"Small, satisfying dish","Yes, sometimes",Desi Food
+Sadness,Rarely,More,Somewhat likely,Very often,Desi Food
+Happiness,Rarely,Somewhat likely,I don't know,Never,Desi Food
+Anger,Always,"Yes, always",I don't eat when I'm angry,"Yes, sometimes",Fast Food
+Fear,I eat more,Never,Unhealthier,Alone,Fast Food
+Anger,Never,Never,It doesn't matter,"Yes, sometimes",Fast Food
+Anger,Rarely,Never,With others,Rarely,Fast Food
+Anger,Never,"Yes, always",I don't eat when I'm angry,"Yes, often",Desi Food
+Happiness,Sometimes,Very likely,"Small, satisfying dish",Rarely,Fast Food
+Anger,Never,"Yes, sometimes",With others,"Yes, sometimes",Fast Food
+Happiness,Very often,Not at all likely,Large meal,Never,Desi Food
+Fear,I eat more,Sometimes,Healthier,I don't eat when I'm scared or anxious,Fast Food
+Fear,It doesn't affect my eating habits,Never,Healthier,It doesn't matter,Desi Food
+Sadness,Sometimes,Less,Somewhat likely,Sometimes,Fast Food
+Fear,It doesn't affect my eating habits,Rarely,Healthier,Alone,Fast Food
+Sadness,Never,The same amount,Somewhat likely,Never,Fast Food
+Anger,Sometimes,"Yes, sometimes",With others,Never,Desi Food
+Happiness,Sometimes,Somewhat likely,"Small, satisfying dish","Yes, often",Fast Food
+Happiness,Never,Very likely,Large meal,Never,Fast Food
+Fear,I eat less,Always,It doesn't affect my food choices,With others,Fast Food
+Happiness,Very often,Very likely,I don't know,"Yes, often",Fast Food
+Anger,Always,Rarely,It doesn't matter,"Yes, often",Fast Food
+Happiness,Rarely,Not at all likely,"Small, satisfying dish",Rarely,Desi Food
+Sadness,Rarely,Less,Not very likely,Rarely,Desi Food
+Fear,It depends,Never,Unhealthier,It doesn't matter,Fast Food
+Fear,I eat less,Always,I don't know,It doesn't matter,Fast Food
+Fear,I eat less,Sometimes,Unhealthier,It doesn't matter,Desi Food
+Fear,I eat less,Rarely,It doesn't affect my food choices,Alone,Fast Food
+Anger,Never,"Yes, sometimes",I don't eat when I'm angry,Never,Desi Food
+Anger,Always,Never,With others,"Yes, sometimes",Fast Food
+Sadness,Never,More,Somewhat likely,Rarely,Desi Food
+Happiness,Rarely,Not at all likely,I don't know,"Yes, often",Fast Food
+Anger,Sometimes,"Yes, sometimes",With others,"Yes, sometimes",Desi Food
+Sadness,Always,It depends,Somewhat likely,Very often,Fast Food
+Anger,Rarely,"Yes, always",With others,Rarely,Desi Food
+Fear,I eat more,Sometimes,I don't know,With others,Desi Food
+Anger,Rarely,"Yes, sometimes",It doesn't matter,"Yes, sometimes",Desi Food
+Anger,Sometimes,Rarely,I don't eat when I'm angry,Never,Desi Food
+Sadness,Sometimes,It depends,Somewhat likely,Very often,Desi Food
+Fear,I eat more,Always,It doesn't affect my food choices,Alone,Fast Food
+Anger,Always,Rarely,It doesn't matter,Never,Fast Food
+Anger,Always,"Yes, sometimes",With others,"Yes, often",Desi Food
+Fear,I eat more,Never,Unhealthier,With others,Desi Food
+Anger,Never,"Yes, always",It doesn't matter,Never,Desi Food
+Happiness,Never,Not very likely,"Small, satisfying dish",Rarely,Desi Food
+Sadness,Always,The same amount,Not at all likely,Never,Desi Food
+Happiness,Very often,Not very likely,I don't know,"Yes, sometimes",Fast Food
+Anger,Always,"Yes, sometimes",With others,"Yes, often",Fast Food
+Fear,I eat more,Never,Healthier,It doesn't matter,Fast Food
+Sadness,Rarely,Less,Not very likely,Very often,Fast Food
+Fear,I eat less,Sometimes,I don't know,I don't eat when I'm scared or anxious,Fast Food
+Sadness,Rarely,More,Not very likely,Rarely,Fast Food
+Anger,Always,"Yes, always",Alone,"Yes, often",Fast Food
+Happiness,Never,Not at all likely,"Small, satisfying dish","Yes, sometimes",Fast Food
+Sadness,Rarely,The same amount,Somewhat likely,Never,Desi Food
+Sadness,Sometimes,Less,Somewhat likely,Very often,Fast Food
+Happiness,Rarely,Not very likely,I don't know,Rarely,Desi Food
+Happiness,Very often,Very likely,Large meal,"Yes, sometimes",Fast Food
+Happiness,Never,Not at all likely,I don't know,"Yes, often",Fast Food
+Happiness,Sometimes,Somewhat likely,I don't know,Never,Desi Food
+Fear,It doesn't affect my eating habits,Rarely,Healthier,Alone,Fast Food
+Anger,Sometimes,Rarely,It doesn't matter,Rarely,Desi Food
+Sadness,Rarely,It depends,Somewhat likely,Very often,Fast Food
+Sadness,Never,More,Not at all likely,Never,Desi Food
+Sadness,Always,Less,Not at all likely,Very often,Fast Food
+Sadness,Rarely,The same amount,Not very likely,Very often,Desi Food
+Anger,Always,"Yes, always",With others,"Yes, often",Desi Food
+Anger,Always,Never,It doesn't matter,"Yes, often",Fast Food
+Sadness,Rarely,It depends,Very likely,Very often,Fast Food
+Sadness,Rarely,Less,Very likely,Rarely,Desi Food
+Happiness,Sometimes,Very likely,It depends,Rarely,Fast Food
+Sadness,Rarely,Less,Not very likely,Never,Desi Food
+Anger,Rarely,"Yes, sometimes",I don't eat when I'm angry,Never,Desi Food
+Anger,Rarely,Never,Alone,"Yes, often",Fast Food
+Anger,Sometimes,Rarely,Alone,"Yes, often",Fast Food
+Fear,It doesn't affect my eating habits,Sometimes,Healthier,Alone,Fast Food
+Fear,I eat less,Always,Healthier,Alone,Fast Food
+Fear,It doesn't affect my eating habits,Rarely,I don't know,It doesn't matter,Fast Food
+Happiness,Never,Not at all likely,It depends,"Yes, sometimes",Desi Food
+Fear,It doesn't affect my eating habits,Never,It doesn't affect my food choices,It doesn't matter,Fast Food
+Anger,Rarely,Rarely,With others,"Yes, often",Desi Food
+Sadness,Always,Less,Somewhat likely,Rarely,Fast Food
+Happiness,Rarely,Not at all likely,I don't know,"Yes, sometimes",Desi Food
+Sadness,Sometimes,It depends,Not very likely,Never,Desi Food
+Fear,I eat less,Rarely,Unhealthier,It doesn't matter,Desi Food
+Fear,I eat more,Rarely,Healthier,I don't eat when I'm scared or anxious,Desi Food
+Sadness,Rarely,Less,Not very likely,Rarely,Desi Food
+Happiness,Very often,Not at all likely,It depends,"Yes, sometimes",Fast Food
+Fear,It depends,Rarely,Healthier,With others,Fast Food
+Anger,Always,Rarely,With others,"Yes, sometimes",Fast Food
+Happiness,Rarely,Very likely,I don't know,Rarely,Fast Food
+Fear,It doesn't affect my eating habits,Never,It doesn't affect my food choices,I don't eat when I'm scared or anxious,Desi Food
+Fear,I eat less,Rarely,Unhealthier,It doesn't matter,Fast Food
+Sadness,Rarely,More,Not very likely,Very often,Desi Food
+Sadness,Always,More,Not at all likely,Very often,Fast Food
+Anger,Always,Never,It doesn't matter,"Yes, often",Desi Food
+Anger,Never,Never,With others,Never,Desi Food
+Fear,It depends,Rarely,Healthier,It doesn't matter,Fast Food
+Anger,Never,"Yes, always",Alone,Never,Fast Food
+Sadness,Rarely,The same amount,Somewhat likely,Very often,Desi Food
+Happiness,Never,Somewhat likely,I don't know,"Yes, sometimes",Desi Food
+Sadness,Rarely,The same amount,Not very likely,Rarely,Desi Food
+Anger,Rarely,Rarely,Alone,"Yes, often",Fast Food
+Sadness,Sometimes,It depends,Very likely,Sometimes,Desi Food
+Happiness,Never,Somewhat likely,It depends,Never,Desi Food
+Fear,It doesn't affect my eating habits,Sometimes,It doesn't affect my food choices,Alone,Desi Food
+Fear,I eat more,Sometimes,It doesn't affect my food choices,It doesn't matter,Fast Food
+Fear,I eat less,Rarely,I don't know,I don't eat when I'm scared or anxious,Fast Food
+Sadness,Sometimes,More,Very likely,Very often,Desi Food
+Happiness,Sometimes,Not at all likely,Large meal,"Yes, sometimes",Fast Food
+Happiness,Never,Not very likely,Large meal,Never,Desi Food
+Fear,I eat less,Never,It doesn't affect my food choices,Alone,Fast Food
+Sadness,Rarely,The same amount,Very likely,Rarely,Desi Food
+Sadness,Never,It depends,Not very likely,Rarely,Fast Food
+Sadness,Always,It depends,Not at all likely,Rarely,Fast Food
+Happiness,Never,Not very likely,"Small, satisfying dish","Yes, sometimes",Fast Food
+Anger,Always,"Yes, always",With others,Rarely,Fast Food
+Happiness,Very often,Very likely,Large meal,"Yes, often",Desi Food
+Fear,I eat more,Sometimes,Healthier,Alone,Fast Food
+Fear,It depends,Sometimes,I don't know,Alone,Desi Food
+Happiness,Very often,Not very likely,Large meal,Never,Fast Food
+Anger,Always,Rarely,Alone,"Yes, often",Fast Food
+Happiness,Rarely,Not at all likely,"Small, satisfying dish",Never,Fast Food
+Anger,Sometimes,Never,With others,Rarely,Fast Food
+Anger,Never,"Yes, always",It doesn't matter,"Yes, often",Desi Food
+Sadness,Rarely,It depends,Somewhat likely,Sometimes,Fast Food
+Sadness,Sometimes,More,Not very likely,Sometimes,Fast Food
+Fear,I eat more,Rarely,Healthier,I don't eat when I'm scared or anxious,Fast Food
+Happiness,Never,Not very likely,"Small, satisfying dish",Never,Fast Food
+Fear,It doesn't affect my eating habits,Rarely,Unhealthier,With others,Desi Food
+Anger,Sometimes,Never,It doesn't matter,Never,Desi Food
+Sadness,Always,It depends,Somewhat likely,Sometimes,Desi Food
+Fear,I eat less,Sometimes,I don't know,With others,Fast Food
+Fear,I eat more,Always,Unhealthier,I don't eat when I'm scared or anxious,Desi Food
+Anger,Rarely,Never,I don't eat when I'm angry,Never,Fast Food
+Anger,Rarely,Rarely,Alone,Never,Desi Food
+Anger,Sometimes,"Yes, always",I don't eat when I'm angry,Rarely,Fast Food
+Anger,Sometimes,Never,I don't eat when I'm angry,"Yes, often",Fast Food
+Sadness,Always,It depends,Not at all likely,Never,Desi Food
+Happiness,Very often,Not at all likely,Large meal,"Yes, sometimes",Desi Food
+Happiness,Never,Somewhat likely,It depends,Never,Fast Food
+Anger,Sometimes,Never,With others,"Yes, often",Fast Food
+Sadness,Always,More,Not at all likely,Sometimes,Desi Food
+Anger,Always,"Yes, always",Alone,"Yes, often",Fast Food
+Sadness,Sometimes,More,Not very likely,Sometimes,Desi Food
+Fear,It depends,Rarely,I don't know,I don't eat when I'm scared or anxious,Fast Food
+Anger,Always,Never,I don't eat when I'm angry,Rarely,Desi Food
+Sadness,Sometimes,The same amount,Very likely,Never,Fast Food
+Happiness,Rarely,Very likely,I don't know,Never,Desi Food
+Sadness,Rarely,Less,Somewhat likely,Very often,Desi Food
+Fear,I eat more,Rarely,Healthier,With others,Fast Food
+Happiness,Very often,Very likely,"Small, satisfying dish","Yes, sometimes",Desi Food
+Fear,I eat more,Never,I don't know,Alone,Fast Food
+Fear,I eat less,Always,Healthier,I don't eat when I'm scared or anxious,Desi Food
+Anger,Sometimes,Rarely,I don't eat when I'm angry,Rarely,Desi Food
+Anger,Never,Never,It doesn't matter,"Yes, often",Desi Food
+Anger,Always,"Yes, sometimes",It doesn't matter,Never,Desi Food
+Happiness,Sometimes,Very likely,I don't know,"Yes, often",Fast Food
+Anger,Always,Rarely,I don't eat when I'm angry,"Yes, sometimes",Fast Food
+Happiness,Very often,Somewhat likely,It depends,"Yes, often",Fast Food
+Anger,Never,"Yes, sometimes",It doesn't matter,"Yes, often",Desi Food
+Anger,Never,"Yes, sometimes",It doesn't matter,"Yes, sometimes",Fast Food
+Sadness,Always,Less,Not at all likely,Sometimes,Fast Food
+Sadness,Rarely,Less,Not at all likely,Rarely,Fast Food
+Sadness,Sometimes,More,Somewhat likely,Sometimes,Fast Food
+Anger,Sometimes,"Yes, sometimes",It doesn't matter,"Yes, sometimes",Fast Food
+Happiness,Very often,Somewhat likely,I don't know,Never,Fast Food
+Happiness,Very often,Not at all likely,It depends,"Yes, often",Fast Food
+Anger,Sometimes,Never,With others,"Yes, often",Desi Food
+Anger,Rarely,Rarely,It doesn't matter,Never,Fast Food
+Sadness,Never,More,Not at all likely,Rarely,Desi Food
+Anger,Always,Never,With others,Never,Desi Food
+Happiness,Rarely,Somewhat likely,I don't know,Never,Desi Food
+Sadness,Rarely,More,Not very likely,Very often,Desi Food
+Fear,I eat less,Always,Healthier,With others,Fast Food
+Fear,It doesn't affect my eating habits,Never,Unhealthier,With others,Fast Food
+Fear,I eat more,Rarely,Healthier,It doesn't matter,Fast Food
+Anger,Always,Never,It doesn't matter,"Yes, sometimes",Fast Food
+Fear,I eat more,Never,Unhealthier,It doesn't matter,Desi Food
+Fear,I eat more,Always,It doesn't affect my food choices,With others,Fast Food
+Happiness,Sometimes,Not at all likely,"Small, satisfying dish",Rarely,Desi Food
+Sadness,Always,It depends,Not at all likely,Very often,Fast Food
+Happiness,Very often,Somewhat likely,I don't know,"Yes, sometimes",Desi Food
+Fear,I eat more,Never,Unhealthier,It doesn't matter,Fast Food
+Happiness,Very often,Not at all likely,It depends,Never,Fast Food
+Sadness,Rarely,More,Very likely,Never,Fast Food
+Anger,Always,Never,With others,"Yes, often",Desi Food
+Anger,Never,"Yes, always",It doesn't matter,"Yes, often",Fast Food
+Happiness,Never,Somewhat likely,I don't know,"Yes, often",Desi Food
+Sadness,Always,The same amount,Not at all likely,Very often,Fast Food
+Fear,I eat less,Sometimes,Unhealthier,Alone,Desi Food
+Fear,It depends,Always,It doesn't affect my food choices,I don't eat when I'm scared or anxious,Fast Food
+Happiness,Very often,Not at all likely,I don't know,Rarely,Fast Food
+Sadness,Sometimes,More,Not at all likely,Rarely,Fast Food
+Sadness,Rarely,Less,Not at all likely,Sometimes,Fast Food
+Fear,I eat less,Never,It doesn't affect my food choices,Alone,Desi Food
+Anger,Always,Rarely,With others,"Yes, sometimes",Fast Food
+Fear,It doesn't affect my eating habits,Never,Unhealthier,Alone,Desi Food
+Fear,It doesn't affect my eating habits,Never,Healthier,It doesn't matter,Fast Food
+Anger,Rarely,"Yes, always",With others,Rarely,Fast Food
+Happiness,Very often,Somewhat likely,I don't know,Rarely,Desi Food
+Anger,Always,Rarely,Alone,"Yes, sometimes",Fast Food
+Sadness,Sometimes,It depends,Somewhat likely,Sometimes,Desi Food
+Fear,It doesn't affect my eating habits,Sometimes,Healthier,I don't eat when I'm scared or anxious,Fast Food
+Sadness,Never,Less,Not at all likely,Never,Fast Food
+Sadness,Sometimes,The same amount,Not very likely,Never,Fast Food
+Sadness,Always,The same amount,Somewhat likely,Rarely,Fast Food
+Anger,Rarely,"Yes, sometimes",Alone,"Yes, sometimes",Desi Food
+Happiness,Very often,Very likely,I don't know,"Yes, sometimes",Fast Food
+Fear,It doesn't affect my eating habits,Never,Healthier,I don't eat when I'm scared or anxious,Fast Food
+Anger,Always,"Yes, always",Alone,"Yes, often",Fast Food
+Anger,Rarely,"Yes, always",It doesn't matter,"Yes, sometimes",Fast Food
+Fear,It doesn't affect my eating habits,Sometimes,I don't know,With others,Desi Food
+Happiness,Sometimes,Somewhat likely,"Small, satisfying dish",Rarely,Fast Food
+Sadness,Never,Less,Very likely,Very often,Fast Food
+Anger,Never,"Yes, always",Alone,Rarely,Desi Food
+Happiness,Very often,Not at all likely,It depends,"Yes, sometimes",Desi Food
+Happiness,Sometimes,Not very likely,Large meal,"Yes, sometimes",Fast Food
+Anger,Never,"Yes, always",With others,Rarely,Desi Food
+Happiness,Sometimes,Very likely,It depends,"Yes, often",Fast Food
+Happiness,Very often,Not at all likely,I don't know,"Yes, often",Fast Food
+Happiness,Very often,Very likely,"Small, satisfying dish","Yes, often",Desi Food
+Happiness,Very often,Somewhat likely,"Small, satisfying dish","Yes, sometimes",Desi Food
+Happiness,Never,Somewhat likely,Large meal,Never,Fast Food
+Anger,Sometimes,"Yes, sometimes",It doesn't matter,Never,Fast Food
+Fear,It doesn't affect my eating habits,Sometimes,It doesn't affect my food choices,With others,Fast Food
+Fear,I eat less,Rarely,Unhealthier,Alone,Desi Food
+Fear,It doesn't affect my eating habits,Rarely,I don't know,Alone,Fast Food
+Anger,Rarely,Never,Alone,"Yes, sometimes",Desi Food
+Sadness,Sometimes,Less,Very likely,Rarely,Fast Food
+Sadness,Sometimes,Less,Very likely,Sometimes,Desi Food
+Sadness,Sometimes,More,Very likely,Very often,Fast Food
+Happiness,Sometimes,Not very likely,Large meal,Rarely,Desi Food
+Fear,It depends,Rarely,Healthier,I don't eat when I'm scared or anxious,Fast Food
+Anger,Rarely,Rarely,I don't eat when I'm angry,"Yes, often",Fast Food
+Happiness,Very often,Very likely,"Small, satisfying dish","Yes, often",Desi Food
+Sadness,Always,It depends,Very likely,Very often,Desi Food
+Anger,Always,"Yes, always",I don't eat when I'm angry,"Yes, sometimes",Fast Food
+Happiness,Sometimes,Somewhat likely,"Small, satisfying dish","Yes, often",Fast Food
+Anger,Never,"Yes, sometimes",It doesn't matter,Never,Desi Food
+Fear,I eat more,Sometimes,Healthier,With others,Fast Food
+Fear,It doesn't affect my eating habits,Always,Healthier,It doesn't matter,Desi Food
+Anger,Sometimes,Never,Alone,Never,Fast Food
+Fear,I eat less,Always,I don't know,Alone,Fast Food
+Anger,Rarely,Never,Alone,"Yes, sometimes",Fast Food
+Happiness,Rarely,Somewhat likely,"Small, satisfying dish","Yes, often",Fast Food
+Anger,Never,Never,It doesn't matter,Never,Fast Food
+Fear,I eat less,Rarely,I don't know,Alone,Desi Food
+Anger,Always,"Yes, always",With others,"Yes, often",Desi Food
+Fear,It depends,Rarely,I don't know,With others,Desi Food
+Anger,Rarely,Never,Alone,"Yes, often",Fast Food
+Sadness,Always,The same amount,Somewhat likely,Rarely,Fast Food
+Happiness,Rarely,Very likely,"Small, satisfying dish",Rarely,Desi Food
+Anger,Never,Rarely,I don't eat when I'm angry,Never,Desi Food
+Anger,Never,"Yes, always",I don't eat when I'm angry,"Yes, often",Desi Food
+Happiness,Never,Not at all likely,It depends,"Yes, often",Desi Food
+Anger,Always,Never,It doesn't matter,"Yes, often",Desi Food
+Happiness,Rarely,Very likely,"Small, satisfying dish",Rarely,Desi Food
+Fear,It doesn't affect my eating habits,Sometimes,I don't know,With others,Fast Food
+Happiness,Never,Very likely,"Small, satisfying dish",Rarely,Desi Food
+Happiness,Very often,Somewhat likely,"Small, satisfying dish",Never,Desi Food
+Fear,It depends,Never,It doesn't affect my food choices,With others,Fast Food
+Sadness,Never,More,Not at all likely,Never,Fast Food
+Happiness,Never,Somewhat likely,I don't know,Rarely,Desi Food
+Fear,I eat more,Always,Unhealthier,With others,Fast Food
+Happiness,Rarely,Very likely,It depends,"Yes, often",Fast Food
+Happiness,Sometimes,Not very likely,It depends,Rarely,Fast Food
+Fear,It doesn't affect my eating habits,Always,Unhealthier,I don't eat when I'm scared or anxious,Desi Food
+Fear,It doesn't affect my eating habits,Sometimes,It doesn't affect my food choices,With others,Fast Food
+Anger,Never,Never,I don't eat when I'm angry,Rarely,Desi Food
