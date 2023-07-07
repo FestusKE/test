@@ -4,3 +4,4 @@ preprocess
 pyzipper
 joblib
 gunicorn
+scikit-learn
