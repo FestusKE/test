@@ -3,3 +3,4 @@ pandas
 preprocess
 pyzipper
 joblib
+gunicorn
