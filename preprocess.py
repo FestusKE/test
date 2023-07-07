@@ -55,9 +55,9 @@ def zip_to_csv(zip_dir, password = 'dkMreHXt'):
     return ativity_stage
 
 #Testing the function
-zip_dir = "3089914011_1685273976448.zip"
-ativity_stage = zip_to_csv(zip_dir)
-print('Ativity Stage\n', ativity_stage.head()) #Ativity Stage
+#zip_dir = "3089914011_1685273976448.zip"
+#ativity_stage = zip_to_csv(zip_dir)
+#print('Ativity Stage\n', ativity_stage.head()) #Ativity Stage
 
 def predict_activity(ativity_stage):
     x = ativity_stage.drop(['date', 'start', 'stop'], axis=1)
@@ -89,6 +89,6 @@ def predict_activity(ativity_stage):
     return time_list, activity_pred #Returns a list of classified events alongside a list of time when the activity took place
 
 ## Test the function
-time_list, activity_pred = predict_activity(ativity_stage)
-print('Time list\n', time_list) #Time
-print('Activities\n', activity_pred) #Time
+#time_list, activity_pred = predict_activity(ativity_stage)
+#print('Time list\n', time_list) #Time
+#print('Activities\n', activity_pred) #Time
