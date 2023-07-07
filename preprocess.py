@@ -89,6 +89,6 @@ def predict_activity(ativity_stage):
     return time_list, activity_pred #Returns a list of classified events alongside a list of time when the activity took place
 
 ## Test the function
-#time_list, activity_pred = predict_activity(ativity_stage)
-#print('Time list\n', time_list) #Time
-#print('Activities\n', activity_pred) #Time
+time_list, activity_pred = predict_activity(ativity_stage)
+print('Time list\n', time_list) #Time
+print('Activities\n', activity_pred) #Time
